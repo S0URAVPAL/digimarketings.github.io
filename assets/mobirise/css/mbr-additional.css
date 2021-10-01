@@ -2907,6 +2907,21 @@ a {
 .cid-sKB2n10vC8 .row {
   justify-content: center;
 }
+.cid-sKBkvDNwK5 {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../../../assets/images/mbr-1920x1002.jpg");
+}
+.cid-sKBkvDNwK5 .mbr-text,
+.cid-sKBkvDNwK5 .mbr-section-btn {
+  color: #232323;
+}
+.cid-sKBkvDNwK5 .btn {
+  width: 100%;
+}
+.cid-sKBkvDNwK5 .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
 .cid-sKn26pmFOX {
   padding-top: 6rem;
   padding-bottom: 6rem;

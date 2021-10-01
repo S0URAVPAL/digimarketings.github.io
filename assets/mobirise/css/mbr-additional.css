@@ -983,6 +983,8 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -1075,7 +1077,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 237, 228, 0.9);
+  background: #ffede4;
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2870,26 +2872,35 @@ a {
     max-width: 12.5%;
   }
 }
-.cid-sKn26mEiCU {
+.cid-sKB2n10vC8 {
   padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
+.cid-sKB2n10vC8 .card-box {
+  z-index: 10;
+  position: relative;
+}
 @media (min-width: 1500px) {
-  .cid-sKn26mEiCU .container {
+  .cid-sKB2n10vC8 .container {
     max-width: 1400px;
   }
 }
-.cid-sKn26mEiCU .mbr-iconfont {
+.cid-sKB2n10vC8 .card {
+  margin: auto;
+}
+.cid-sKB2n10vC8 .mbr-iconfont {
   display: block;
   font-size: 5rem;
   color: #e43f3f;
   margin-bottom: 2rem;
 }
-.cid-sKn26mEiCU .card-wrapper {
-  margin-top: 3rem;
+.cid-sKB2n10vC8 .card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.cid-sKn26mEiCU .row {
+.cid-sKB2n10vC8 .row {
   justify-content: center;
 }
 .cid-sKn26nzbhz {

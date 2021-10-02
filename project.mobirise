@@ -99,8 +99,8 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "fp8evtlgmz",
+    "favicon": "@PROJECT_PATH@/assets/images/my-logo-128x128.png",
+    "mbrsiteDomain": "stvpoje1ae",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -124,7 +124,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "google-site-verification=vHe3xcYhZE9Y3Xm6WQvh-fb76uQqsvOsPlwosq_8_x0"
   },
   "pages": {
     "index.html": {

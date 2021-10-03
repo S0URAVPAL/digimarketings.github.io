@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DigiMartketings",
-    "currentPage": "index.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -95,7 +95,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 210,
+    "uniqCompNum": 230,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -132,10 +132,11 @@
       "settings": {
         "main": true,
         "title": "Increase Revenue with #1 Digital Marketing Agency in Kolkata",
-        "meta_descr": "✔️Best Digital Marketing Services in Kolkata and Hooghly helps, to Generate More Revenue, with Most Affordable and Exciting Packages. Results Within 120 Days.",
+        "meta_descr": "✔️Best Digital Marketing Services in Kolkata and Hooghly helps to Generate More Revenue, with Most Affordable and Customized Packages. Results Within 120 Days.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpeg"
       },
       "components": [
         {
@@ -1118,7 +1119,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2098,7 +2099,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3078,8 +3079,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1920.png"
       },
       "components": [
         {
@@ -3902,8 +3903,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1920.png"
       },
       "components": [
         {
@@ -4726,8 +4727,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 4,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1920.png"
       },
       "components": [
         {
@@ -5550,7 +5551,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [
@@ -6374,7 +6375,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [
@@ -7198,7 +7199,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7,
+        "order": 8,
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [
@@ -8022,8 +8023,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 7,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1920.png"
       },
       "components": [
         {
@@ -8846,8 +8847,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 11,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-9-1920x1920.png"
       },
       "components": [
         {
@@ -9670,8 +9671,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 10,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1920.png"
       },
       "components": [
         {
@@ -10494,8 +10495,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 9,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-7-1920x1920.png"
       },
       "components": [
         {
@@ -11318,8 +11319,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
+        "order": 12,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-10-1920x1920.png"
       },
       "components": [
         {
@@ -12142,7 +12143,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12,
+        "order": 13,
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [

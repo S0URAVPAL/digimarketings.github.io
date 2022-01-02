@@ -1,77 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://digimarketings.co.in/</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/index.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/best-onPage-offPage-seo-services-in-kolkata.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/technical-SEO.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/social-media-marketing.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/pay-per-click-advertising.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/link-building.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/Website-consultation.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/about.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/blog.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/best-onpage-offpage-seo-services-in-kolkata.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/terms.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digimarketings.co.in/5-Most-Important-Techniques-to-follow.html</loc>
-  <lastmod>2021-12-04T11:55:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://digimarketings.github.io/index.html/pay-per-click-advertising.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/about.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/blog.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/Website-consultation.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/social-media-marketing.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/link-building.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/index.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/5-Most-Important-Techniques-to-follow.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/page10.html</loc>
+	</url>
+	<url>
+		<loc>https://digimarketings.github.io/index.html/SEO.html</loc>
+	</url>
 </urlset>
